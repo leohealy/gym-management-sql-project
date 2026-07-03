@@ -1,7 +1,7 @@
-# Gym Management SQL Project
+# Gym Management SQL & Power BI Project
 
 ## Overview
-This project is a relational database built using PostgreSQL to simulate a gym management system. It demonstrates database design, data modelling, and business analysis using SQL.
+This project is a relational database built using PostgreSQL combined with a Power BI dashboard to simulate a gym management system. It demonstrates database design, SQL analysis, and data visualisation.
 
 ---
 
@@ -73,12 +73,6 @@ Using SQL, the following questions were answered:
 
 ---
 
-## Tools Used
-
-- PostgreSQL
-- pgAdmin
-- VS Code
-
 
 ## Power BI Dashboard Preview
 
@@ -90,3 +84,14 @@ Using SQL, the following questions were answered:
 
 ### Class & Trainer Performance Page
 ![Class & Trainer Performance](images/class_trainer.png)
+
+---
+
+
+## Tools Used
+
+- PostgreSQL
+- SQL
+- Power BI
+- pgAdmin
+- VS Code
