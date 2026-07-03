@@ -78,3 +78,15 @@ Using SQL, the following questions were answered:
 - PostgreSQL
 - pgAdmin
 - VS Code
+
+
+## Power BI Dashboard Preview
+
+### Overview Page
+![Overview](images/overview.png)
+
+### Member Insights Page
+![Member Insights](images/member_insights.png)
+
+### Class & Trainer Performance Page
+![Class & Trainer Performance](images/class_trainer.png)
